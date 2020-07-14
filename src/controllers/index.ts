@@ -1,0 +1,5 @@
+export { PlayerController } from './player-controller'
+export { AsteroidController } from './asteroid-controller'
+export { BulletController } from './bullet-controller'
+export { GameController } from './game-controller'
+export { UIController } from './ui-controller'

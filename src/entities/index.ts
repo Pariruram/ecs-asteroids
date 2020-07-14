@@ -1,0 +1,5 @@
+export { player } from './player'
+export { asteroid } from './asteroid'
+export { bullet } from './bullet'
+export { game } from './game'
+export { ui } from './ui'
